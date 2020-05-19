@@ -12,7 +12,6 @@ public class Basic {
     public Update update;//更新天气状况
 
     public class Update{
-
         @SerializedName("loc")
         public String updateTime;//更新时间
     }
